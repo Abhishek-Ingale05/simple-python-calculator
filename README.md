@@ -1,6 +1,6 @@
 # Simple Python Calculator 🧮
 
-A beginner-friendly calculator program written in Python.
+A beginner-friendly Calculator program written in Python.
 
 ## Features
 
