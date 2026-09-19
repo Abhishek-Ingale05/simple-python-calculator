@@ -1,5 +1,5 @@
 ```python
-print("===== Simple Python Calculator =====")
+print("==== Simple Python Calculator ====")
 
 while True:
     print("\nChoose an operation:")
